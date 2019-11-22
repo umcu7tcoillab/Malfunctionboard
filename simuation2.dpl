@@ -1,0 +1,31 @@
+<QucsStudio Schematic 2.5.7>
+<Properties>
+  <View=0,60,1410,871,1.18182,0,0>
+  <Grid=10,10,0>
+  <DataSet=simuation2.dat>
+  <DataDisplay=simuation2.sch>
+  <OpenDisplay=1>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 207 608 1066 465 3 #c0c0c0 1 00 0 0 -0.2 -5 0 -7 1 14 1 0 0 0 315 0 225 "" "" "">
+	<Legend 10 -100 0>
+	<"Pr17.dV" #0000ff 0 3 0 0 0 0 "">
+  </Rect>
+</Diagrams>
+<Paintings>
+  <Line 520 680 390 0 #000080 2 1>
+  <Line 910 693 0 -23 #000080 2 1>
+  <Text 686 691 12 #000000 0 "No malf = 12v">
+  <Line 520 693 0 -23 #000080 2 1>
+</Paintings>
