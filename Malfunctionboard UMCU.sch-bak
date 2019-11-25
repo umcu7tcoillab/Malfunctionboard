@@ -1495,10 +1495,10 @@ F 3 "~" H 2880 10350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C?
+L Device:C_Small C101
 U 1 1 5DDC86F3
 P 1600 4600
-AR Path="/5DDC86F3" Ref="C?"  Part="1" 
+AR Path="/5DDC86F3" Ref="C101"  Part="1" 
 AR Path="/5DD7A153/5DDC86F3" Ref="C?"  Part="1" 
 AR Path="/5DD8AB9E/5DDC86F3" Ref="C?"  Part="1" 
 AR Path="/5DD8B165/5DDC86F3" Ref="C?"  Part="1" 
@@ -1555,7 +1555,7 @@ AR Path="/5DF27113/5DDC86F3" Ref="C?"  Part="1"
 AR Path="/5DF27125/5DDC86F3" Ref="C?"  Part="1" 
 AR Path="/5DF3554E/5DDC86F3" Ref="C?"  Part="1" 
 AR Path="/5DF35560/5DDC86F3" Ref="C?"  Part="1" 
-F 0 "C?" V 1371 4600 50  0000 C CNN
+F 0 "C101" V 1371 4600 50  0000 C CNN
 F 1 "10n" V 1462 4600 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 1600 4600 50  0001 C CNN
 F 3 "~" H 1600 4600 50  0001 C CNN
@@ -1565,10 +1565,10 @@ $EndComp
 Wire Wire Line
 	1600 4750 1600 4700
 $Comp
-L Device:C_Small C?
+L Device:C_Small C102
 U 1 1 5DDD4127
 P 1950 4600
-AR Path="/5DDD4127" Ref="C?"  Part="1" 
+AR Path="/5DDD4127" Ref="C102"  Part="1" 
 AR Path="/5DD7A153/5DDD4127" Ref="C?"  Part="1" 
 AR Path="/5DD8AB9E/5DDD4127" Ref="C?"  Part="1" 
 AR Path="/5DD8B165/5DDD4127" Ref="C?"  Part="1" 
@@ -1625,7 +1625,7 @@ AR Path="/5DF27113/5DDD4127" Ref="C?"  Part="1"
 AR Path="/5DF27125/5DDD4127" Ref="C?"  Part="1" 
 AR Path="/5DF3554E/5DDD4127" Ref="C?"  Part="1" 
 AR Path="/5DF35560/5DDD4127" Ref="C?"  Part="1" 
-F 0 "C?" V 1721 4600 50  0000 C CNN
+F 0 "C102" V 1721 4600 50  0000 C CNN
 F 1 "10n" V 1812 4600 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 1950 4600 50  0001 C CNN
 F 3 "~" H 1950 4600 50  0001 C CNN
@@ -1633,10 +1633,10 @@ F 3 "~" H 1950 4600 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:C_Small C?
+L Device:C_Small C103
 U 1 1 5DDD4583
 P 2300 4600
-AR Path="/5DDD4583" Ref="C?"  Part="1" 
+AR Path="/5DDD4583" Ref="C103"  Part="1" 
 AR Path="/5DD7A153/5DDD4583" Ref="C?"  Part="1" 
 AR Path="/5DD8AB9E/5DDD4583" Ref="C?"  Part="1" 
 AR Path="/5DD8B165/5DDD4583" Ref="C?"  Part="1" 
@@ -1693,7 +1693,7 @@ AR Path="/5DF27113/5DDD4583" Ref="C?"  Part="1"
 AR Path="/5DF27125/5DDD4583" Ref="C?"  Part="1" 
 AR Path="/5DF3554E/5DDD4583" Ref="C?"  Part="1" 
 AR Path="/5DF35560/5DDD4583" Ref="C?"  Part="1" 
-F 0 "C?" V 2071 4600 50  0000 C CNN
+F 0 "C103" V 2071 4600 50  0000 C CNN
 F 1 "10n" V 2162 4600 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 2300 4600 50  0001 C CNN
 F 3 "~" H 2300 4600 50  0001 C CNN
@@ -1701,10 +1701,10 @@ F 3 "~" H 2300 4600 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:C_Small C?
+L Device:C_Small C105
 U 1 1 5DDD4F47
 P 3050 4600
-AR Path="/5DDD4F47" Ref="C?"  Part="1" 
+AR Path="/5DDD4F47" Ref="C105"  Part="1" 
 AR Path="/5DD7A153/5DDD4F47" Ref="C?"  Part="1" 
 AR Path="/5DD8AB9E/5DDD4F47" Ref="C?"  Part="1" 
 AR Path="/5DD8B165/5DDD4F47" Ref="C?"  Part="1" 
@@ -1761,7 +1761,7 @@ AR Path="/5DF27113/5DDD4F47" Ref="C?"  Part="1"
 AR Path="/5DF27125/5DDD4F47" Ref="C?"  Part="1" 
 AR Path="/5DF3554E/5DDD4F47" Ref="C?"  Part="1" 
 AR Path="/5DF35560/5DDD4F47" Ref="C?"  Part="1" 
-F 0 "C?" V 2821 4600 50  0000 C CNN
+F 0 "C105" V 2821 4600 50  0000 C CNN
 F 1 "10n" V 2912 4600 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 3050 4600 50  0001 C CNN
 F 3 "~" H 3050 4600 50  0001 C CNN
@@ -1858,10 +1858,10 @@ Connection ~ 2550 4750
 Wire Wire Line
 	2550 4750 2300 4750
 $Comp
-L Device:C_Small C?
+L Device:C_Small C106
 U 1 1 5DE695F5
 P 6750 3300
-AR Path="/5DE695F5" Ref="C?"  Part="1" 
+AR Path="/5DE695F5" Ref="C106"  Part="1" 
 AR Path="/5DD7A153/5DE695F5" Ref="C?"  Part="1" 
 AR Path="/5DD8AB9E/5DE695F5" Ref="C?"  Part="1" 
 AR Path="/5DD8B165/5DE695F5" Ref="C?"  Part="1" 
@@ -1918,7 +1918,7 @@ AR Path="/5DF27113/5DE695F5" Ref="C?"  Part="1"
 AR Path="/5DF27125/5DE695F5" Ref="C?"  Part="1" 
 AR Path="/5DF3554E/5DE695F5" Ref="C?"  Part="1" 
 AR Path="/5DF35560/5DE695F5" Ref="C?"  Part="1" 
-F 0 "C?" V 6521 3300 50  0000 C CNN
+F 0 "C106" V 6521 3300 50  0000 C CNN
 F 1 "10n" V 6612 3300 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 6750 3300 50  0001 C CNN
 F 3 "~" H 6750 3300 50  0001 C CNN
@@ -1938,10 +1938,10 @@ Wire Wire Line
 	6750 3100 7100 3100
 Connection ~ 6750 3100
 $Comp
-L Device:C_Small C?
+L Device:C_Small C104
 U 1 1 5DDD4911
 P 2700 4600
-AR Path="/5DDD4911" Ref="C?"  Part="1" 
+AR Path="/5DDD4911" Ref="C104"  Part="1" 
 AR Path="/5DD7A153/5DDD4911" Ref="C?"  Part="1" 
 AR Path="/5DD8AB9E/5DDD4911" Ref="C?"  Part="1" 
 AR Path="/5DD8B165/5DDD4911" Ref="C?"  Part="1" 
@@ -1998,7 +1998,7 @@ AR Path="/5DF27113/5DDD4911" Ref="C?"  Part="1"
 AR Path="/5DF27125/5DDD4911" Ref="C?"  Part="1" 
 AR Path="/5DF3554E/5DDD4911" Ref="C?"  Part="1" 
 AR Path="/5DF35560/5DDD4911" Ref="C?"  Part="1" 
-F 0 "C?" V 2471 4600 50  0000 C CNN
+F 0 "C104" V 2471 4600 50  0000 C CNN
 F 1 "10n" V 2562 4600 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 2700 4600 50  0001 C CNN
 F 3 "~" H 2700 4600 50  0001 C CNN
