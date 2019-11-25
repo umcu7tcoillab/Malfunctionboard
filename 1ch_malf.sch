@@ -1,14 +1,14 @@
 EESchema Schematic File Version 4
 LIBS:Malfunctionboard UMCU-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 5 9
-Title ""
-Date ""
-Rev ""
-Comp ""
+Sheet 2 9
+Title "Malfunctionboard "
+Date "2019-11-25"
+Rev "v0.1"
+Comp "UMC Utrecht"
 Comment1 ""
 Comment2 ""
 Comment3 ""
