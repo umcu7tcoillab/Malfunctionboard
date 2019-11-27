@@ -168,7 +168,7 @@ U 1 1 5DE93191
 P 1650 9500
 F 0 "H105" H 1600 9800 50  0000 L CNN
 F 1 "MH_Pad" H 1500 9700 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 1650 9500 50  0001 C CNN
+F 2 "_Custom:MountingHole_3.2mm_M3_plated" H 1650 9500 50  0001 C CNN
 F 3 "~" H 1650 9500 50  0001 C CNN
 	1    1650 9500
 	-1   0    0    -1  
@@ -179,7 +179,7 @@ U 1 1 5DE358C6
 P 1150 8900
 F 0 "H102" H 1100 9200 50  0000 L CNN
 F 1 "MH_Pad" H 1000 9100 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 1150 8900 50  0001 C CNN
+F 2 "_Custom:MountingHole_3.2mm_M3_plated" H 1150 8900 50  0001 C CNN
 F 3 "~" H 1150 8900 50  0001 C CNN
 	1    1150 8900
 	-1   0    0    -1  
@@ -1383,7 +1383,7 @@ U 1 1 5DDF6F40
 P 1500 8900
 F 0 "H104" H 1450 9200 50  0000 L CNN
 F 1 "MH_Pad" H 1350 9100 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 1500 8900 50  0001 C CNN
+F 2 "_Custom:MountingHole_3.2mm_M3_plated" H 1500 8900 50  0001 C CNN
 F 3 "~" H 1500 8900 50  0001 C CNN
 	1    1500 8900
 	-1   0    0    -1  
@@ -1394,7 +1394,7 @@ U 1 1 5DE34C5C
 P 1850 8900
 F 0 "H107" H 1800 9200 50  0000 L CNN
 F 1 "MH_Pad" H 1700 9100 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 1850 8900 50  0001 C CNN
+F 2 "_Custom:MountingHole_3.2mm_M3_plated" H 1850 8900 50  0001 C CNN
 F 3 "~" H 1850 8900 50  0001 C CNN
 	1    1850 8900
 	-1   0    0    -1  
@@ -1408,7 +1408,7 @@ U 1 1 5DE8377C
 P 2000 9500
 F 0 "H108" H 1950 9800 50  0000 L CNN
 F 1 "MH_Pad" H 1850 9700 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 2000 9500 50  0001 C CNN
+F 2 "_Custom:MountingHole_3.2mm_M3_plated" H 2000 9500 50  0001 C CNN
 F 3 "~" H 2000 9500 50  0001 C CNN
 	1    2000 9500
 	-1   0    0    -1  
@@ -1419,7 +1419,7 @@ U 1 1 5DE0FC2F
 P 1300 9500
 F 0 "H101" H 1250 9800 50  0000 L CNN
 F 1 "MH_Pad" H 1150 9700 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 1300 9500 50  0001 C CNN
+F 2 "_Custom:MountingHole_3.2mm_M3_plated" H 1300 9500 50  0001 C CNN
 F 3 "~" H 1300 9500 50  0001 C CNN
 	1    1300 9500
 	-1   0    0    -1  
@@ -1478,7 +1478,7 @@ U 1 1 5DE9619A
 P 2150 8900
 F 0 "H106" H 2100 9200 50  0000 L CNN
 F 1 "MH_Pad" H 2000 9100 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 2150 8900 50  0001 C CNN
+F 2 "_Custom:MountingHole_3.2mm_M3_plated" H 2150 8900 50  0001 C CNN
 F 3 "~" H 2150 8900 50  0001 C CNN
 	1    2150 8900
 	-1   0    0    -1  
