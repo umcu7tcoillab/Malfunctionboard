@@ -1,5 +1,11 @@
-﻿*.bak
-*.kicad_pcb-bak
+﻿*.kicad_pcb-bak
+*.sch-bak
+*.bak
 *-cache.lib
+_autosave*
 fp-info-cache
-Gerber
+
+/Notes/*
+/Production files/*
+
+Thumbs.db
