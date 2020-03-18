@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 9
 Title "Malfunctionboard "
-Date "2019-11-25"
-Rev "v0.1"
+Date "2020-03-18"
+Rev "v0.2"
 Comp "UMC Utrecht"
 Comment1 ""
 Comment2 ""
