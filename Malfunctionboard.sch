@@ -5,8 +5,8 @@ $Descr A4 8268 11693 portrait
 encoding utf-8
 Sheet 1 9
 Title "Malfunctionboard "
-Date "2020-03-18"
-Rev "v0.2"
+Date "2020-04-10"
+Rev "v0.3"
 Comp "UMC Utrecht"
 Comment1 ""
 Comment2 ""
@@ -692,28 +692,17 @@ Connection ~ 3450 7600
 Connection ~ 3450 8400
 Wire Wire Line
 	3450 8400 3450 7600
-$Comp
-L Device:R_Small R4
-U 1 1 5E019972
-P 5100 9700
-F 0 "R4" H 5159 9746 50  0000 L CNN
-F 1 "10k" H 5159 9655 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 5100 9700 50  0001 C CNN
-F 3 "~" H 5100 9700 50  0001 C CNN
-	1    5100 9700
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	5100 9600 4750 9600
 $Comp
 L power:GND #PWR029
 U 1 1 5E0258DA
-P 5100 9800
-F 0 "#PWR029" H 5100 9550 50  0001 C CNN
-F 1 "GND" H 5105 9627 50  0001 C CNN
-F 2 "" H 5100 9800 50  0001 C CNN
-F 3 "" H 5100 9800 50  0001 C CNN
-	1    5100 9800
+P 5100 9600
+F 0 "#PWR029" H 5100 9350 50  0001 C CNN
+F 1 "GND" H 5105 9427 50  0001 C CNN
+F 2 "" H 5100 9600 50  0001 C CNN
+F 3 "" H 5100 9600 50  0001 C CNN
+	1    5100 9600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -831,7 +820,7 @@ L Device:D_Zener_Small D3
 U 1 1 5DEA025E
 P 2350 3950
 F 0 "D3" V 2400 4000 50  0000 L CNN
-F 1 "5V" V 2300 4000 50  0000 L CNN
+F 1 "5.4V" V 2300 4000 50  0000 L CNN
 F 2 "Diode_SMD:D_SOD-323" V 2350 3950 50  0001 C CNN
 F 3 "~" V 2350 3950 50  0001 C CNN
 	1    2350 3950
@@ -839,17 +828,6 @@ F 3 "~" V 2350 3950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5400 3500 5400 3550
-$Comp
-L Device:R_Small R5
-U 1 1 5DDA2F55
-P 5400 3650
-F 0 "R5" H 5459 3696 50  0000 L CNN
-F 1 "10k" H 5459 3605 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 5400 3650 50  0001 C CNN
-F 3 "~" H 5400 3650 50  0001 C CNN
-	1    5400 3650
-	1    0    0    -1  
-$EndComp
 Text Notes 5450 2600 0    50   ~ 0
 Jumper on Malf/MH on last board in daisy chain
 Text Notes 5600 3100 2    50   ~ 0
@@ -1505,4 +1483,15 @@ F 3 "" H 2000 2750 50  0001 C CNN
 $EndComp
 Connection ~ 2000 2750
 Connection ~ 2000 2450
+$Comp
+L Device:R_Small R5
+U 1 1 5DDA2F55
+P 5400 3650
+F 0 "R5" H 5459 3696 50  0000 L CNN
+F 1 "1k" H 5459 3605 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 5400 3650 50  0001 C CNN
+F 3 "~" H 5400 3650 50  0001 C CNN
+	1    5400 3650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
